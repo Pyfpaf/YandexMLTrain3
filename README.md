@@ -2,4 +2,4 @@
 
 ## Тема: Автономный транспорт, ML для робототехники, знакомство с RL — Reinforcement Learning
 
-**Сертификат. ML-забег. 2025**[Просмотреть сертификат](cert_yandex.PDF)
+[![Сертификат. ML-забег. 2025](pre_cert_yandex.png)](cert_yandex.PDF)
